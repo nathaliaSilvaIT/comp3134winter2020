@@ -10,8 +10,3 @@ The answer is the number 65535 represent 2^16 -1 (one less than 2 to the 16th po
 4) State 10 common server ports
 The answer is DHCP - 67, 68; SMTP - 25; DHCP - 67, 68; DNS - 53; SSH - 22; RDP - 3389 ; TELNET - 23; HTTPS - 443; FTP - 20, 21 ; HTTP - 80; IMAP - 143; POP3 - 110 
 
-_______________________________________________
-Explanation(s)
-_______________________________________________
-bits		5		4		3		2		1
-max vals	32		16		8		4		2
