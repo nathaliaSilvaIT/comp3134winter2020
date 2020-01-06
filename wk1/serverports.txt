@@ -1,0 +1,17 @@
+1) What is the definition of server port?
+The answer is server port is the way a client program specifies a specific server program on a computer in a network. The port number identifies what type of port it is.
+
+2) What is server port range?
+The answer is server ports range from 0 to 65535; however, it is necessary to note that only port numbers 0 to 1023 are reserved for privileged services and designated as well-known ports.
+
+3) How many bits does number above represent?
+The answer is the number 65535 represent 2^16 -1 (one less than 2 to the 16th power) which represents 16 bit
+
+4) State 10 common server ports
+The answer is DHCP - 67, 68; SMTP - 25; DHCP - 67, 68; DNS - 53; SSH - 22; RDP - 3389 ; TELNET - 23; HTTPS - 443; FTP - 20, 21 ; HTTP - 80; IMAP - 143; POP3 - 110 
+
+_______________________________________________
+Explanation(s)
+_______________________________________________
+bits		5		4		3		2		1
+max vals	32		16		8		4		2
