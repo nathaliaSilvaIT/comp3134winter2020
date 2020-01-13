@@ -1,0 +1,78 @@
+Domain Name Look-Up search results
+
+
+Checking Domain Name
+
+Domain Name: google.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 172.217.12.174
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+Reverse DNS: lga25s62-in-f14.1e100.net
+
+
+Checking Domain Name
+
+Domain Name: gmail.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 172.217.6.229
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+Reverse DNS: lga25s55-in-f229.1e100.net
+
+
+Checking Domain Name
+
+Domain Name: hotmail.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 204.79.197.212
+
+Geolocation: US (United States), WA, Washington, 98052 Redmond - Google Maps
+
+Reverse DNS: a-0010.a-msedge.net
+
+
+
+Checking Domain Name
+
+Domain Name: amazon.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 176.32.103.205
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS entry: not found
+
+
+Checking Domain Name
+
+Domain Name: meetup.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 151.101.2.110
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+
