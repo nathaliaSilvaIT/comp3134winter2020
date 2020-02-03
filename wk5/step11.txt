@@ -1,0 +1,53 @@
+Microsoft Windows [Version 10.0.17763.973]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\Nathalia>shh -p 22 root@159.203.42.239
+'shh' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nathalia>ssh -p 22 root@159.203.42.239
+root@159.203.42.239's password:
+Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-58-generic x86_64)Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-58-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Mon Feb  3 20:43:05 UTC 2020
+
+  System load:  0.0                Processes:           107
+  Usage of /:   10.6% of 24.06GB   Users logged in:     1
+  Memory usage: 40%                IP address for eth0: 159.203.42.239
+  Swap usage:   0%
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+
+72 packages can be updated.
+0 updates are security updates.
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's One-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP One-Click Quickstart guide: http://do.co/lamp1804#start
+ * Your LAMP website: http://159.203.42.239
+
+On the server:
+ * The default web root is located at /var/www/html
+ * The MySQL root password is saved in /root/.digitalocean_password
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   http://do.co/lamp1804#enable-https for more detail.
+
+For help and more information, visit http://do.co/lamp1804
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Mon Feb  3 20:36:46 2020 from 198.96.85.21
+root@lamp-s-1vcpu-1gb-tor1-01:~#
