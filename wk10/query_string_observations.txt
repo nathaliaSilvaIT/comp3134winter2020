@@ -1,0 +1,15 @@
+1- The meaning of the word is displayed on the page right after it is being reloaded. The query string in the URL will go troughchanges.
+
+
+2- When the page reloads, the user can see the following message "No results found for [invalid word]".
+It is clear to see that the URL portion '/browse' is now to changed to '/misspelling?term=[invalid word]'
+At the screen, the user can also see the phrase "Did you mean [...]?" with a word with a close spelling.
+
+
+3- At this time, the user is presented this statement "Results for <script>alert('hello')</script>:".
+The engine searched other categories in the website for the results containing <script>alert('hello')</script>
+
+
+4- The user is presented with a message "Results for <script>alert('hello')</script>:".
+What happened is that the engine searched for the results containing <script>alert('hello')</script>
+In thi case, it was the same that if typing in the form field.

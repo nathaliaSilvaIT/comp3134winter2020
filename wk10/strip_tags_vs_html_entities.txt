@@ -1,0 +1,2 @@
+The only difference between stripping tags and html entities is that htmlentities() can convert tags to text then display text on the browserpage,
+but strip_tags() only can remove all tags from a string
