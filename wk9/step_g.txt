@@ -1,0 +1,2 @@
+1) At the header tags >> start the lines with 'echo' for the php interpreter.
+2) To not show the html comments >> convert them to php commentsby opening the lines with # instead of <!--

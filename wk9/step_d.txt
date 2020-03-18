@@ -1,0 +1,11 @@
+1) What you see on the browser (the issue) ???
+
+A blank white screen. 
+
+
+
+
+2) What sensitive information is given by this page?
+
+The  info given is the content of all the directory. 
+It is clear that some of the files have confidential information. 

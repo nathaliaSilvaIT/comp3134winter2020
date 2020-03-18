@@ -1,0 +1,8 @@
+What you see on the browser (the issue) ??
+
+I see the html folder; therefore, the current directory is one level above that. 
+
+
+What sensitive information is given by this page??
+
+The folder structure and location of the root folder.

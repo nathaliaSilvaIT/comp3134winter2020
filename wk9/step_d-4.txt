@@ -1,0 +1,8 @@
+1) What you see on the browser (the issue)??
+
+All the folders on my droplet server are visible.
+
+What sensitive information is given by this page??
+
+Possible attacker can possibly get try to get access the root. 
+Also, the attacker could see any stored files.
