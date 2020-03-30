@@ -1,0 +1,3 @@
+Session is one of the ways to mitigate attacks.  
+
+The csfr_form.php is a better way to do validation.

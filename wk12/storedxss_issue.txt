@@ -1,0 +1,3 @@
+A JavaScript injection is a type of attack that mos clients are never aware of.
+In this way, a JS script can be placed in a form , for example, and no output will be shown when the form is sent; however, the source code could have been changed.
+This sort of attack opens a way to cyber attacks such as cookie manipulation.
