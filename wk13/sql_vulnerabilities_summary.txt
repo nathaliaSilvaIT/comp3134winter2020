@@ -1,0 +1,8 @@
+In this case, the outuput was not what I expected.
+
+In this page, only the column headers are visible, and this happened because there is nothing in the database that is a match. 
+
+In addition, it is clear that the only record returned is regarding the user 'Ben'; however, this should not have happened since I set '0' for the 'active' column. 
+
+In the second scenario, no records are shown in the screen, the only items that can be seen are the column headers and a warning message: "mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given". 
+Nothing else.
